@@ -4,7 +4,7 @@ In the project, you will find a simple game with falling cakes which the player 
 
 Game Menu             |  Example Gameplay
 :-------------------------:|:-------------------------:
-![game menu](Screenshots/menu.png) | ![sample gameplay](Screenshots/gameplay.png)
+<img src="Screenshots/menu.png" width="30%"> | <img src="Screenshots/gameplay.png" width="30%">
 
 **Task overview**
 
@@ -24,9 +24,12 @@ In a real game, the player should be able to skip the limit by watching an ad. P
   - a button with a title *"Instant refresh"* that skips the wait instantly
 - Upon reaching 0 on the timer or clicking on the *"Instant refresh"* button, the dialog should be dismissed and the user should be able to continue playing for another 10 cakes
 
-There's no need to style the dialog in any particular way, you can use the default styles for the UI. If you want, you can use the following screen from Squarelets as an inspiration but there's **no need to style the UI**.
+<img src="Screenshots/round-limit.png" align="right" width="20%">
 
-![example limit reached view](Screenshots/round-limit.png){width=20%}
+
+There's no need to style the dialog in any particular way, you can use the default styles for the UI. 
+
+If you want, you can use the following screen from Squarelets as an inspiration but there's **no need to style the UI** to match it.
 
 Feel free to modify the existing project as you see fit.
 
