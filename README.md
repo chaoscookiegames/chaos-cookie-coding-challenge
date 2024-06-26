@@ -6,6 +6,9 @@ Game Menu             |  Example Gameplay
 :-------------------------:|:-------------------------:
 <img src="Screenshots/menu.png" width="30%"> | <img src="Screenshots/gameplay.png" width="30%">
 
+**Technical details**
+Please make a private repo by using this one as a template. Solve the challenge and create a PR in your copy and add [@itsbeatka](https://www.github.com/itsbeatka) when you're ready with your solution.
+
 **Task overview**
 
 We would like you to introduce a temprary limit to how long the user can play. We will measure the length of a play session in the number of avoided cakes.
