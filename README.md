@@ -24,7 +24,7 @@ In a real game, the player should be able to skip the limit by watching an ad. P
   - a button with a title *"Instant refresh"* that skips the wait instantly
 - Upon reaching 0 on the timer or clicking on the *"Instant refresh"* button, the dialog should be dismissed and the user should be able to continue playing for another 10 cakes
 
-<img src="Screenshots/round-limit.png" align="right" width="20%">
+<img src="Screenshots/round-limit.png" align="right" width="15%">
 
 
 There's no need to style the dialog in any particular way, you can use the default styles for the UI. 
