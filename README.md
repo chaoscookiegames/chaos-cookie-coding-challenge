@@ -8,7 +8,10 @@ Game Menu             |  Example Gameplay
 
 **Submission details**
 
-Please make a private repo by using this one as a template. Solve the challenge, create a PR in your copy and add [@itsbeatka](https://www.github.com/itsbeatka) to it when you're ready with your solution.
+Please create a private repo by using this one as a template. Use this button on top of the page to do so (you'll need to be logged in):
+![template button](Screenshots/template-button.png)
+
+Solve the challenge, create a PR in your copy and add [@itsbeatka](https://www.github.com/itsbeatka) to it when you're ready with your solution.
 
 **Task overview**
 
