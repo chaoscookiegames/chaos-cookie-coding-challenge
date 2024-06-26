@@ -2,6 +2,10 @@
 
 In the project, you will find a simple game with falling cakes which the player has to avoid by moving the monster left and right.
 
+Game Menu             |  Example Gameplay
+:-------------------------:|:-------------------------:
+![game menu](Screenshots/menu.png) | ![sample gameplay](Screenshots/gameplay.png)
+
 **Task overview**
 
 We would like you to introduce a temprary limit to how long the user can play. We will measure the length of a play session in the number of avoided cakes.
@@ -20,7 +24,9 @@ In a real game, the player should be able to skip the limit by watching an ad. P
   - a button with a title *"Instant refresh"* that skips the wait instantly
 - Upon reaching 0 on the timer or clicking on the *"Instant refresh"* button, the dialog should be dismissed and the user should be able to continue playing for another 10 cakes
 
-There's no need to style the dialog in any particular way, you can use the default styles for the UI.
+There's no need to style the dialog in any particular way, you can use the default styles for the UI. If you want, you can use the following screen from Squarelets as an inspiration but there's **no need to style the UI**.
+
+![example limit reached view](Screenshots/round-limit.png){width=20%}
 
 Feel free to modify the existing project as you see fit.
 
