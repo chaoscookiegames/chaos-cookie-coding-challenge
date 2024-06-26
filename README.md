@@ -7,7 +7,8 @@ Game Menu             |  Example Gameplay
 <img src="Screenshots/menu.png" width="30%"> | <img src="Screenshots/gameplay.png" width="30%">
 
 **Technical details**
-Please make a private repo by using this one as a template. Solve the challenge and create a PR in your copy and add [@itsbeatka](https://www.github.com/itsbeatka) when you're ready with your solution.
+
+Please make a private repo by using this one as a template. Solve the challenge and create a PR in your copy and add [@itsbeatka](https://www.github.com/itsbeatka) to it when you're ready with your solution.
 
 **Task overview**
 
