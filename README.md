@@ -38,7 +38,15 @@ There's no need to style the dialog in any particular way, you can use the defau
 
 If you want, you can use the following screen from Squarelets as an inspiration but there's **no need to style the UI** to match it.
 
-Feel free to modify the existing project as you see fit.
+**Important**
+1. Create a set of tests for the cake limit logic.
+2. Make sure both the number of cakes to dodge and the cooldown period are easily configurable and ready to be set remotely (you don't have to create a system for remote configuration, a stub / mock implementation with notes on you'd do it is enough).
+3. What parts of the design of the existing game could be improved? How? Focus primarily on the technical aspects, such as performance issues or memory management.
+4. How would you change the game state management to allow for multiple save slots and syncing with backend? Create a minimal working example to illustrate this.
+5. How would you restructure the project to work with a depencency injection system? What kind of services would help to make it more modular? You don't have to create or integrate with one but describe your approach.
+6. Is there anything else that could be improved? Both from the technical or game design standpoint.
+
+Feel free to modify the existing project as you see fit to illustrate your points.
 
 If you have any questions reach out to careers@chaoscookie.games.
 
